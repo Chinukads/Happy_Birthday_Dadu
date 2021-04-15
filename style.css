@@ -1,0 +1,26 @@
+body
+{
+  color: cyan;
+  background: cyan;
+}
+.heading
+{
+  width: 80%;
+  font-size: 22px;
+}
+#camera 
+{
+  border: 2px dashed magenta;
+  width: 350px;
+  height: 300px; 
+}
+.name_of_objects, #result_object_name  , #result_object_accuracy
+{
+  color: magenta;
+}
+
+.div_bday{
+    text-align: center;
+    background: red;
+
+}
